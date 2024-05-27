@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @basicW
-- 👀 I’m interested in Flutter and Blockchain Development
-- 🌱 I’m currently learning Cryptography
-- 💞️ I’m looking to collaborate on all things Flutter and Blockchain
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Game Development
+- 💞️ I’m looking to collaborate on any programing project
 - 📫 How to reach me: Discord: the_real_basik
 
 <!---
