@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basicW
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Game Development
+- 🌱 I’m currently learning as much as I can
 - 💞️ I’m looking to collaborate on any programing project
 - 📫 How to reach me: Discord: the_real_basik
 
