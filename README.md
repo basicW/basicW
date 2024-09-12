@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basicW
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning C.
 - 💞️ Hopefully one day I can build something cool.
 - 📫 How to reach me: Discord: the_real_basik
 
